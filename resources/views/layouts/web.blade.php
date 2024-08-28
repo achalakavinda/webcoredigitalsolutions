@@ -70,8 +70,13 @@
 	<!-- PAGE CONTENT
 		============================================= -->
 	<div id="page" class="page font--jakarta">
+        
+		@include("layouts.components.header")
 
         @yield("content")
+
+		@include("layouts.components.footer")
+
 
 	</div> <!-- END PAGE CONTENT -->
 
