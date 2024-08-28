@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://webcoredigitalsolutions.com.au'),
 
     /*
     |--------------------------------------------------------------------------
@@ -97,7 +97,7 @@ return [
 
     'cipher' => 'AES-256-CBC',
 
-    'key' => env('APP_KEY'),
+    'key' => env('APP_KEY', 'base64:dXBwZXRwdXppeGdtbmJhZXlnb3ZsNGw1b3d5MWl2N2Y='),
 
     'previous_keys' => [
         ...array_filter(
