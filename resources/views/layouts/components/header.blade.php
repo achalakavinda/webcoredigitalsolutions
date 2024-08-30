@@ -28,7 +28,11 @@
                                     <!-- SIMPLE NAVIGATION LINK -->
                                     <li class="nl-simple" aria-haspopup="true"><a href="/"
                                             class="h-link">Home</a></li>
-                                    <li class="nl-simple" aria-haspopup="true"><a href="about" class="h-link">About</a>
+                                            <li class="nl-simple" aria-haspopup="true">
+                                                <a href="services" class="h-link">Services</a>
+                                            </li>
+                                    <li class="nl-simple" aria-haspopup="true">
+                                        <a href="about" class="h-link">About</a>
                                     </li>
                                     <li class="nl-simple" aria-haspopup="true"><a href="contact-us"
                                             class="h-link">Contact Us</a></li>
