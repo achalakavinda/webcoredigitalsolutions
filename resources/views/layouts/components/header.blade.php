@@ -14,12 +14,12 @@
     
                             <!-- HEADER BLACK LOGO -->
                             <div class="desktoplogo">
-                                <a href="/" class="logo-black"><img style="width: 150px;" src="images/horizontal_logo.jpeg" alt="logo"></a>
+                                <a href="/" class="logo-black"><img style="width: 150px;" src="images/horizontal_logo.png" alt="logo"></a>
                             </div>
     
                             <!-- HEADER WHITE LOGO -->
                             <div class="desktoplogo">
-                                <a href="#hero-7" class="logo-white"><img src="images/horizontal_logo.jpeg"  alt="logo"></a>
+                                <a href="#hero-7" class="logo-white"><img src="images/horizontal_logo.png"  alt="logo"></a>
                             </div>
     
                             <!-- MAIN MENU -->
