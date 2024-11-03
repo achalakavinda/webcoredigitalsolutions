@@ -50,6 +50,8 @@
 	<link href="css/owl.carousel.min.css" rel="stylesheet">
 	<link href="css/owl.theme.default.min.css" rel="stylesheet">
 	<link href="css/lunar.css" rel="stylesheet">
+	<link href="css/bird.css" rel="stylesheet">
+
 
 	<!-- ON SCROLL ANIMATION -->
 	<link href="css/animate.css" rel="stylesheet">

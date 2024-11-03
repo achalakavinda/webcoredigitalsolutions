@@ -320,8 +320,7 @@
 
 
 
-			<!-- FEATURES-11
-			============================================= -->
+			<!- FEATURES-11 -->
 			<section id="features-11" class="py-100 features-section division">
 				<div class="container">
 

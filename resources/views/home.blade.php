@@ -16,7 +16,7 @@
                                 <div class="hero-7-txt wow fadeInRight">
     
                                     <!-- Title -->
-                                    <h2 class="s-54 w-700">Digital Solutions that drives results for your business</h2>
+                                    <h2 class="s-54 w-700">IT Solutions to help your business grow!</h2>
     
                                     <!-- Text -->
                                     <p class="p-lg">Welcome to WebCore Digital Solutions, where your business’s digital
@@ -28,7 +28,6 @@
     
                                     <!-- HERO QUICK FORM -->
                                     <form name="quickform" class="quick-form form-shadow form-half mt-35">
-    
                                         <!-- Form Inputs -->
                                         <div class="input-group">
                                             <input type="email" name="email" class="form-control email r-06"
@@ -38,23 +37,44 @@
                                                     Started</button>
                                             </span>
                                         </div>
-    
                                         <!-- Form Message -->
                                         <div class="quick-form-msg"><span class="loading"></span></div>
-    
                                     </form> <!-- END HERO QUICK FORM -->
                                 </div>
                             </div> <!-- END HERO TEXT -->
     
     
                             <!-- HERO IMAGE -->
-                            <div class="col-md-6">
-                                <div class="hero-7-img text-center wow fadeInLeft">
-                                    <img class="img-fluid" src="images/img-06.png" alt="hero-image">
-                                </div>
+                            						<!-- IMAGE BLOCK -->
+                                <div class="col-md-6">
+                                    <br/>
+                                    <div id="sky">
+                                        <div class="bird">
+                                            <div class="wind"></div>
+                                            <div class="wind"></div>
+                                            <div class="wind"></div>
+                                            <div class="wind"></div>
+                                            <div class="wind"></div>
+                                            <div class="wind"></div>
+                                            <div class="wind"></div>
+                                            <div class="wind"></div>
+                                            <div class="wind"></div>
+                                            <div class="wind"></div>
+                                            <div class="bird_body">
+                                                <div class="bird_head"></div>
+                                                <div class="bird_wing_left">
+                                                    <div class="bird_wing_left_top"></div>
+                                                </div>
+                                                <div class="bird_wing_right">
+                                                    <div class="bird_wing_right_top"></div>
+                                                </div>
+                                                <div class="bird_tail_left"></div>
+                                                <div class="bird_tail_right"></div>
+                                            </div>
+                                        </div>
+                                    </div>
                             </div>
-    
-    
+
                         </div> <!-- End row -->
                     </div> <!-- End container -->
                 </div> <!-- End hero-overlay -->
@@ -188,13 +208,11 @@
                     </div> <!-- END FEATURES-6 WRAPPER -->
                 </div> <!-- End container -->
             </section> <!-- END FEATURES-6 -->
-    
-            <!-- DIVIDER LINE -->
-            <hr class="divider">
+
     
             <!-- TEXT CONTENT
                 ============================================= -->
-            <section id="lnk-1" class="pt-100 ct-02 content-section division">
+            <section id="lnk-1" class="ct-02 content-section division">
                 <div class="container">
     
                     <!-- SECTION CONTENT (ROW) -->
@@ -212,37 +230,16 @@
                             <div class="txt-block right-column wow fadeInLeft">
     
                                 <!-- Section ID -->
-                                <span class="section-id">OUR STEP TO SUCCESS</span>
+                                <span class="section-id">Whats on Client Mind?</span>
     
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">Right strategies & implementations</h2>
+                                <h2 class="s-46 w-700">How can I grow my buisness using IT solutions</h2>
     
                                 <!-- Text -->
                                 <p>At WebCore Digital Solutions, we believe that success in the digital world is driven by a
                                     combination of the right strategies and flawless execution. Here’s how we help your
                                     business achieve its goals:
-                                </p>
-    
-                                <!-- Small Title -->
-                                <!-- <h5 class="s-24 w-700">Get more done in less time</h5> -->
-    
-                                <!-- List -->
-                                <!-- <ul class="simple-list">
-    
-                                        <li class="list-item">
-                                            <p>Sapien quaerat tempor an ipsum laoreet purus and sapien dolor an ultrice ipsum 
-                                               aliquam undo congue cursus dolor
-                                            </p>
-                                        </li>
-    
-                                        <li class="list-item">
-                                            <p class="mb-0">Purus suscipit cursus vitae cubilia magnis volute egestas vitae 
-                                               sapien turpis ultrice auctor congue magna placerat
-                                            </p>
-                                        </li>
-    
-                                    </ul> -->
-    
+                                </p>    
                             </div>
                         </div> <!-- END TEXT BLOCK -->
     
@@ -265,10 +262,8 @@
     
     
                         <!-- TEXT BLOCK -->
-                        <div class="col-md-6 order-last order-md-2">
+                        <div class="col-md-6">
                             <div class="txt-block left-column wow fadeInRight">
-    
-    
                                 <!-- CONTENT BOX #1 -->
                                 <div class="cbox-2 process-step">
     
@@ -331,6 +326,15 @@
     
                                 </div> <!-- END CONTENT BOX #3 -->
     
+                               
+    
+                            </div>
+                        </div> <!-- END TEXT BLOCK -->
+    
+                        <!-- TEXT BLOCK -->
+                        <div class="col-md-6">
+                            <div class="txt-block left-column wow fadeInRight">
+
                                 <div class="cbox-2 process-step">
     
                                     <!-- Icon -->
@@ -393,71 +397,11 @@
                         </div> <!-- END TEXT BLOCK -->
     
     
-                        <!-- IMAGE BLOCK -->
-                        <div class="col-md-6 order-first order-md-2">
-                            <div class="img-block wow fadeInLeft">
-                                <img class="img-fluid" src="images/tablet-01.png" alt="content-image">
-                            </div>
-                        </div>
-    
-    
                     </div> <!-- END SECTION CONTENT (ROW) -->
     
     
                 </div> <!-- End container -->
             </section> <!-- END TEXT CONTENT -->
-    
-    
-    
-    
-    
-            <!-- BOX CONTENT
-                ============================================= -->
-            <section class="pt-100 ws-wrapper content-section">
-                <div class="container">
-                    <div class="bc-1-wrapper bg--02 bg--fixed r-16">
-                        <div class="section-overlay">
-                            <div class="row d-flex align-items-center">
-    
-    
-                                <!-- IMAGE BLOCK -->
-                                <div class="col-md-6">
-                                    <div class="img-block left-column wow fadeInRight">
-                                        <img class="img-fluid" src="images/img-09.png" alt="content-image">
-                                    </div>
-                                </div>
-    
-    
-                                <!-- TEXT BLOCK -->
-                                <div class="col-md-6">
-                                    <div class="txt-block right-column wow fadeInLeft">
-    
-                                        <!-- Section ID -->
-                                        <span class="section-id">How it Work</span>
-    
-                                        <!-- Title -->
-                                        <h2 class="s-46 w-700">Better SEO, Better Leads, Better Convertion</h2>
-    
-                                        <!-- Text -->
-                                        <p>Let WebCore Digital Solutions be your partner in navigating the digital landscape
-                                            with the right strategies and implementations for lasting success.
-                                        </p>
-                                    </div>
-                                </div> <!-- END TEXT BLOCK -->
-    
-    
-                            </div> <!-- End row -->
-                        </div> <!-- End section overlay -->
-                    </div> <!-- End content wrapper -->
-                </div> <!-- End container -->
-            </section> <!-- END BOX CONTENT -->
-    
-    
-    
-    
-    
-            <!-- DIVIDER LINE -->
-            <hr class="divider">
     
     
             <!-- FAQs-3
@@ -605,67 +549,61 @@
     
     
                         </div> <!-- End row -->
-                    </div> <!-- END FAQs-3 QUESTIONS -->
-    
-    
-                    <!-- MORE QUESTIONS LINK -->
-                    <div class="row">
-                        <div class="col">
-                            <div class="more-questions mt-40">
-                                <div class="more-questions-txt bg--white-400 r-100">
-                                    <p class="p-lg">Have any questions?
-                                        <a href="contacts.html" class="color--theme">Get in Touch</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-    
+                    </div> <!-- END FAQs-3 QUESTIONS -->    
     
                 </div> <!-- End container -->
             </section> <!-- END FAQs-3 -->
-    
-            <!-- DIVIDER LINE -->
-            <hr class="divider">
-    
-    
-            <!-- BANNER-7
-                ============================================= -->
-            <section id="banner-7" class="banner-section">
-                <div class="banner-overlay py-100">
-                    <div class="container">
-    
-    
-                        <!-- BANNER-7 WRAPPER -->
-                        <div class="banner-7-wrapper">
-                            <div class="row justify-content-center">
-    
-    
-                                <!-- BANNER-7 TEXT -->
-                                <div class="col-md-8">
-                                    <div class="banner-7-txt text-center">
-    
-                                        <!-- Title -->
-                                        <h2 class="s-48 w-700">Grow your business with integrated marketing tools</h2>
-    
-                                        <!-- Buttons -->
-                                        <div class="btns-group">
-                                            <a href="#hero-7" class="btn r-04 btn--theme hover--theme">Get srarted - free
-                                                consultant
-                                            </a>
-                                        </div>
-    
-                                    </div>
-                                </div>
-    
-    
-                            </div> <!-- End row -->
-                        </div> <!-- END BANNER-7 WRAPPER -->
-    
-    
-                    </div> <!-- End container -->
-                </div> <!-- End banner overlay -->
-            </section> <!-- END BANNER-7 -->
+
+			<!-- BANNER-13
+			============================================= -->
+			<section id="banner-13" class="banner-section">
+				<div class="container">
+
+
+					<!-- BANNER-13 WRAPPER -->
+					<div class="banner-13-wrapper bg--05 bg--scroll r-16 block-shadow">
+						<div class="banner-overlay">
+							<div class="row d-flex align-items-center">
+
+
+								<!-- BANNER-5 TEXT -->
+								<div class="col-md-7">
+									<div class="banner-13-txt color--white">
+
+										<!-- Title -->	
+										<h2 class="s-46 w-700">Getting started with Martex today!</h2>
+
+										<!-- Text -->
+										<p class="p-lg">Congue laoreet turpis neque auctor turpis vitae dolor a luctus 
+											placerat and magna ligula cursus
+										</p>
+
+										<!-- Button -->
+										<a href="signup-1.html" class="btn r-04 btn--theme hover--tra-white">Get srarted - it's free</a>
+
+									</div>
+								</div>	<!-- END BANNER-13 TEXT -->
+
+
+								<!-- BANNER-13 IMAGE -->
+								<div class="col-md-5">
+									<div class="banner-13-img text-center">
+										<img class="img-fluid" src="images/img-04.png" alt="banner-image">
+									</div>	
+								</div>
+
+
+							</div>   <!-- End row -->	
+						</div>   <!-- End banner overlay -->	
+					</div>    <!-- END BANNER-13 WRAPPER -->
+
+					
+
+
+				</div>     <!-- End container -->	
+			</section>	<!-- END BANNER-13 -->
+
+			
     
             <!-- DIVIDER LINE -->
             <hr class="divider">

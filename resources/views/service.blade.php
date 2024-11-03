@@ -8,21 +8,17 @@
 			============================================= -->
 			<section class="ct-01 inner-page-hero content-section division">
 				<div class="container">
-
-
 					<!-- SECTION CONTENT (ROW) -->	
 					<div class="row d-flex align-items-center">
-
-
 						<!-- TEXT BLOCK -->	
-						<div class="col-md-6 order-last order-md-2">
+						<div class="col-md-6 ">
 							<div class="txt-block left-column wow fadeInRight">
 
 								<!-- Section ID -->	
-						 		<span class="section-id">Productivity Focused</span>
+						 		<span class="section-id">Our Services </span>
 
 								<!-- Title -->	
-								<h2 class="s-46 w-700">Achieve more with better workflows</h2>
+								<h2 class="s-46 w-700">Achieve more with Us!</h2>
 
 								<!-- Text -->	
 								<p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis 
@@ -51,10 +47,32 @@
 
 
 						<!-- IMAGE BLOCK -->
-						<div class="col-md-6 order-first order-md-2">
-							<div class="img-block right-column wow fadeInLeft">
-								<img class="img-fluid" src="images/img-06.png" alt="content-image">
-							</div>
+						<div class="col-md-6">
+								<div id="sky">
+									<div class="bird">
+										<div class="wind"></div>
+										<div class="wind"></div>
+										<div class="wind"></div>
+										<div class="wind"></div>
+										<div class="wind"></div>
+										<div class="wind"></div>
+										<div class="wind"></div>
+										<div class="wind"></div>
+										<div class="wind"></div>
+										<div class="wind"></div>
+										<div class="bird_body">
+											<div class="bird_head"></div>
+											<div class="bird_wing_left">
+												<div class="bird_wing_left_top"></div>
+											</div>
+											<div class="bird_wing_right">
+												<div class="bird_wing_right_top"></div>
+											</div>
+											<div class="bird_tail_left"></div>
+											<div class="bird_tail_right"></div>
+										</div>
+									</div>
+								</div>
 						</div>
 
 
@@ -710,57 +728,48 @@
 
 
 
-			<!-- BOX CONTENT
-			============================================= -->
-			<section class="pt-100 ws-wrapper content-section">
-				<div class="container">
-					<div class="bc-5-wrapper bg--04 hidd bg--scroll r-16">
-						<div class="section-overlay">
-
-
-							<!-- SECTION TITLE -->	
-							<div class="row justify-content-center">	
-								<div class="col-md-11 col-lg-9">
-									<div class="section-title wow fadeInUp mb-60">	
-
-										<!-- Title -->	
-										<h2 class="s-50 w-700">Build a customer-centric marketing strategy</h2>
-
-										<!-- Text -->	
-										<p class="p-xl">Aliquam a augue suscipit luctus neque purus ipsum neque diam 
-											dolor primis libero tempus, blandit and cursus varius and magnis sodales 
-										</p>
-											
-									</div>	
-								</div>
-							</div>
-
-
-							<!-- IMAGE BLOCK -->
-							<div class="row justify-content-center">
-								<div class="col">
-									<div class="bc-5-img bc-5-tablet img-block-hidden video-preview wow fadeInUp">
-
-					 					<!-- Play Icon --> 
-										<a class="video-popup1" href="https://www.youtube.com/embed/SZEflIVnhH8">				
-											<div class="video-btn video-btn-xl bg--theme">	
-												<div class="video-block-wrapper"><span class="flaticon-play-button"></span></div>
-											</div>
-										</a>
-
-								 		<!-- Preview Image --> 			
-										<img class="img-fluid" src="images/tablet-01.png" alt="content-image">
-
-									</div>	
-								</div>
-							</div>
-
-
-						</div>   <!-- End section overlay -->	
-					</div>    <!-- End content wrapper -->
-				</div>     <!-- End container -->	
-			</section>	<!-- END BOX CONTENT -->
-
+    
+            <!-- BOX CONTENT
+                ============================================= -->
+				<section class="pt-100 ws-wrapper content-section">
+					<div class="container">
+						<div class="bc-1-wrapper bg--02 bg--fixed r-16">
+							<div class="section-overlay">
+								<div class="row d-flex align-items-center">
+		
+		
+									<!-- IMAGE BLOCK -->
+									<div class="col-md-6">
+										<div class="img-block left-column wow fadeInRight">
+											<img class="img-fluid" src="images/img-09.png" alt="content-image">
+										</div>
+									</div>
+		
+		
+									<!-- TEXT BLOCK -->
+									<div class="col-md-6">
+										<div class="txt-block right-column wow fadeInLeft">
+		
+											<!-- Section ID -->
+											<span class="section-id">How it Work</span>
+		
+											<!-- Title -->
+											<h2 class="s-46 w-700">Better SEO, Better Leads, Better Convertion</h2>
+		
+											<!-- Text -->
+											<p>Let WebCore Digital Solutions be your partner in navigating the digital landscape
+												with the right strategies and implementations for lasting success.
+											</p>
+										</div>
+									</div> <!-- END TEXT BLOCK -->
+		
+		
+								</div> <!-- End row -->
+							</div> <!-- End section overlay -->
+						</div> <!-- End content wrapper -->
+					</div> <!-- End container -->
+				</section> <!-- END BOX CONTENT -->
+		
 
 
 
@@ -908,196 +917,6 @@
 
 				</div>	   <!-- End container -->
 			</section>	<!-- END TEXT CONTENT -->
-
-
-
-
-			<!-- TEXT CONTENT
-			============================================= -->
-			<section class="pt-100 ct-04 content-section division">
-				<div class="container">
-
-
-					<!-- SECTION CONTENT (ROW) -->	
-					<div class="row d-flex align-items-center">
-
-
-						<!-- TEXT BLOCK -->	
-			 			<div class="col-md-6 order-last order-md-2">
-			 				<div class="txt-block left-column wow fadeInRight">
-
-
-			 					<!-- CONTENT BOX #1 -->
-								<div class="cbox-2 process-step">
-									
-									<!-- Icon -->
-									<div class="ico-wrap">
-										<div class="cbox-2-ico bg--theme color--white">1</div>
-										<span class="cbox-2-line"></span>
-									</div>
-	
-									<!-- Text -->
-									<div class="cbox-2-txt">
-										<h5 class="s-22 w-700">Simple, Secure & Intuitive</h5>
-										<p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus 
-										   sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula 
-										   quaerat
-										</p>
-									</div>
-
-								</div>	<!-- END CONTENT BOX #1 -->
-
-
-								<!-- CONTENT BOX #2 -->
-								<div class="cbox-2 process-step">
-									
-									<!-- Icon -->
-									<div class="ico-wrap">
-										<div class="cbox-2-ico bg--theme color--white">2</div>
-										<span class="cbox-2-line"></span>
-									</div>
-	
-									<!-- Text -->
-									<div class="cbox-2-txt">
-										<h5 class="s-22 w-700">Weekly Email Reports</h5>
-										<p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus 
-										   sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula 
-										   quaerat
-										</p>
-									</div>
-
-								</div>	<!-- END CONTENT BOX #2 -->
-
-
-								<!-- CONTENT BOX #3 -->
-								<div class="cbox-2 process-step">
-									
-									<!-- Icon -->
-									<div class="ico-wrap">
-										<div class="cbox-2-ico bg--theme color--white">3</div>
-									</div>
-	
-									<!-- Text -->
-									<div class="cbox-2-txt">
-										<h5 class="s-22 w-700">No Personal Data Collected</h5>
-										<p class="mb-0">Ligula risus auctor tempus feugiat dolor lacinia nemo purus in 
-											lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum n
-											eque ligula quaerat
-										</p>
-									</div>
-									
-								</div>	<!-- END CONTENT BOX #3 -->
-
-
-			 				</div>
-					 	</div>	<!-- END TEXT BLOCK -->		
-
-
-						<!-- IMAGE BLOCK -->	
-						<div class="col-md-6 order-first order-md-2">
-							<div class="img-block wow fadeInLeft">
-								<img class="img-fluid" src="images/tablet-01.png" alt="content-image">
-							</div>	
-						</div>
-
-
-					</div>	<!-- END SECTION CONTENT (ROW) -->	
-
-
-				</div>	   <!-- End container -->
-			</section>	<!-- END TEXT CONTENT -->
-
-
-
-
-			<!-- TEXT CONTENT
-			============================================= -->
-			<section class="pt-100 ct-02 content-section division">
-				<div class="container">
-
-
-					<!-- SECTION CONTENT (ROW) -->	
-					<div class="row d-flex align-items-center">
-
-
-						<!-- IMAGE BLOCK -->
-						<div class="col-md-6">
-							<div class="img-block left-column wow fadeInRight">
-								<img class="img-fluid" src="images/img-08.png" alt="content-image">
-							</div>
-						</div>
-
-
-						<!-- TEXT BLOCK -->	
-						<div class="col-md-6">
-							<div class="txt-block right-column wow fadeInLeft">
-
-								<!-- Section ID -->	
-						 		<span class="section-id">Strategies That Work</span>
-	
-								<!-- Title -->	
-								<h2 class="s-46 w-700">Right strategies & implementations</h2>
-
-								<!-- Text -->	
-								<p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis 
-									vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit
-								</p>
-
-								<!-- Small Title -->	
-								<h5 class="s-24 w-700">Get more done in less time</h5>
-
-								<!-- CONTENT BOX #1 -->
-								<div class="cbox-1 ico-15">
-
-		 							<div class="ico-wrap color--theme">
-		 								<div class="cbox-1-ico"><span class="flaticon-check"></span></div>
-		 							</div>
-
-									<div class="cbox-1-txt">
-										<p>Magna dolor luctus at egestas sapien</p>
-									</div>
-
-								</div>
-
-								<!-- CONTENT BOX #2 -->
-								<div class="cbox-1 ico-15">
-
-		 							<div class="ico-wrap color--theme">
-		 								<div class="cbox-1-ico"><span class="flaticon-check"></span></div>
-		 							</div>
-
-									<div class="cbox-1-txt">
-										<p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien 
-										   turpis ultrice auctor congue varius magnis
-										</p>
-									</div>
-
-								</div>
-
-								<!-- CONTENT BOX #3 -->
-								<div class="cbox-1 ico-15">
-
-		 							<div class="ico-wrap color--theme">
-		 								<div class="cbox-1-ico"><span class="flaticon-check"></span></div>
-		 							</div>
-
-									<div class="cbox-1-txt">
-										<p class="mb-0">Volute turpis dolores and sagittis congue</p>
-									</div>
-
-								</div>
-
-							</div>
-						</div>	<!-- END TEXT BLOCK -->	
-
-
-					</div>	<!-- END SECTION CONTENT (ROW) -->	
-
-
-				</div>	   <!-- End container -->
-			</section>	<!-- END TEXT CONTENT -->
-
-
 
 
 			<!-- INTEGRATIONS-1
@@ -1320,16 +1139,6 @@
 		 			</div>	<!-- END INTEGRATIONS-1 WRAPPER -->
 
 
-		 			<!-- MORE BUTTON -->
-					<div class="row">
-						<div class="col">
-							<div class="more-btn text-center mt-60 wow fadeInUp">	
-								<a href="integrations.html" class="btn btn--tra-black hover--theme">View all integrations</a>
-							</div>	
-						</div>
-					</div>
-
-
 				</div>     <!-- End container -->
 			</section>	<!-- END INTEGRATIONS-1 -->
 
@@ -1410,181 +1219,6 @@
 
 
 
-
-			<!-- FAQs-3
-			============================================= -->
-			<section id="faqs-3" class="pt-100 faqs-section">				
-				<div class="container">
-
-
-					<!-- SECTION TITLE -->	
-					<div class="row justify-content-center">	
-						<div class="col-md-10 col-lg-9">
-							<div class="section-title mb-70">	
-
-								<!-- Title -->	
-								<h2 class="s-50 w-700">Questions & Answers</h2>	
-
-								<!-- Text -->	
-								<p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
-									
-							</div>	
-						</div>
-					</div>
-
-
-					<!-- FAQs-3 QUESTIONS -->	
-					<div class="faqs-3-questions">
-						<div class="row">
-
-
-							<!-- QUESTIONS HOLDER -->
-							<div class="col-lg-6">
-								<div class="questions-holder">
-
-
-									<!-- QUESTION #1 -->
-									<div class="question mb-35 wow fadeInUp">
-
-										<!-- Question -->
-										<h5 class="s-22 w-700"><span>1.</span> Getting started with Martex</h5>
-
-										<!-- Answer -->
-										<p class="color--grey">Etiam amet mauris suscipit in odio integer congue metus 
-										   and vitae arcu mollis blandit ultrice ligula egestas magna suscipit lectus magna 
-										   suscipit luctus blandit and laoreet
-										</p>
-
-									</div>	
-
-
-									<!-- QUESTION #2 -->					
-									<div class="question mb-35 wow fadeInUp">
-
-										<!-- Question -->
-										<h5 class="s-22 w-700"><span>2.</span> What's inside the package?</h5>
-
-										<!-- Answer -->
-										<p class="color--grey">An enim nullam tempor sapien gravida donec ipsum and enim 
-											porta justo integer at velna vitae auctor integer congue undo magna laoreet 
-											augue pretium purus pretium ligula 
-										</p>
-
-									</div>
-
-
-									<!-- QUESTION #3 -->					
-									<div class="question mb-35 wow fadeInUp">
-
-										<!-- Question -->
-										<h5 class="s-22 w-700"><span>3.</span> How do I choose a plan?</h5>
-
-										<!-- Answer -->
-										<ul class="simple-list color--grey">
-
-											<li class="list-item">
-												<p>Fringilla risus, luctus mauris orci auctor purus ligula euismod pretium 
-												   purus pretium rutrum tempor sapien
-												</p>
-											</li>
-
-											<li class="list-item">
-												<p>Nemo ipsam egestas volute undo turpis purus lipsum primis aliquam sapien 
-												   quaerat sodales pretium a purus
-												</p>
-											</li>
-
-										</ul>
-
-									</div>
-
-
-								</div>
-							</div>	<!-- END QUESTIONS HOLDER -->
-
-
-							<!-- QUESTIONS WRAPPER -->
-							<div class="col-lg-6">
-								<div class="questions-holder">
-
-								
-									<!-- QUESTION #4 -->					
-									<div class="question mb-35 wow fadeInUp">
-
-										<!-- Question -->
-										<h5 class="s-22 w-700"><span>4.</span> How does Martex handle my privacy?</h5>
-
-										<!-- Answer -->
-										<p class="color--grey">Quaerat sodales sapien euismod blandit purus a purus 
-											ipsum primis in cubilia laoreet augue luctus dolor luctus
-										</p>
-
-										<!-- Answer -->
-										<p class="color--grey">An enim nullam tempor sapien gravida donec congue metus. 
-											Vitae arcu mollis blandit integer nemo volute velna
-										</p>
-
-									</div>
-
-										
-									<!-- QUESTION #5 -->
-									<div class="question mb-35 wow fadeInUp">
-
-										<!-- Question -->
-										<h5 class="s-22 w-700"><span>5.</span> I have an issue with my account</h5>
-
-										<!-- Answer -->
-										<p class="color--grey">Cubilia laoreet augue egestas and luctus donec curabite 
-											diam vitae dapibus libero and quisque gravida donec neque blandit justo 
-											aliquam molestie nunc sapien justo
-										</p>
-
-									</div>
-
-
-									<!-- QUESTION #6 -->
-									<div class="question mb-35 wow fadeInUp">
-
-										<!-- Question -->
-										<h5 class="s-22 w-700"><span>6.</span> Can I cancel at anytime?</h5>
-
-										<!-- Answer -->
-										<p class="color--grey">An enim nullam tempor sapien gravida donec ipsum and enim 
-											porta justo integer at velna vitae auctor integer congue undo magna laoreet 
-											augue pretium purus pretium ligula 
-										</p>
-
-									</div>
-
-
-								</div>
-							</div>	<!-- END QUESTIONS HOLDER -->
-
-
-						</div>  <!-- End row -->	
-					</div>	<!-- END FAQs-3 QUESTIONS -->	
-
-
-					<!-- MORE QUESTIONS LINK -->	
-					<div class="row">
-						<div class="col">	
-							<div class="more-questions mt-40">
-								<div class="more-questions-txt bg--white-400 r-100">
-									<p class="p-lg">Have any questions? 
-										<a href="contacts.html" class="color--theme">Get in Touch</a>
-									</p>
-								</div>
-							</div>
-						</div>
-					</div>
-
-
-				</div>	   <!-- End container -->		
-			</section>	<!-- END FAQs-3 -->	
-
-
-
-
 			<!-- BANNER-13
 			============================================= -->
 			<section id="banner-13" class="pt-100 banner-section">
@@ -1628,68 +1262,13 @@
 						</div>   <!-- End banner overlay -->	
 					</div>    <!-- END BANNER-13 WRAPPER -->
 
+					
+
 
 				</div>     <!-- End container -->	
 			</section>	<!-- END BANNER-13 -->
 
-
-
-
-			<!-- MODAL WINDOW (NEWSLETTER FORM)
-			============================================= -->
-			<div id="modal-2" class="modal fade" tabindex="-1">
-				 <div class="modal-dialog modal-dialog-centered">
-			        <div class="modal-content">
-
-
-			        	<!-- CLOSE BUTTON -->
-			            <button type="button" class="btn-close ico-10 white-color" data-bs-dismiss="modal" aria-label="Close">
-			            	<span class="flaticon-cancel"></span>
-			            </button>
-			            
-
-			            <!-- MODAL CONTENT -->
-			            <div class="modal-body text-center">
-
-
-		            		<!-- IMAGE -->	
-		            		<div class="modal-body-img">
-		            			<img class="img-fluid" src="images/modal-newsletter-blue.jpg" alt="content-image">
-		            		</div>
-
-
-		            		<!-- NEWSLETTER FORM -->	
-		            		<div class="modal-body-content">
-
-				            	<!-- Title -->	
-								<h5 class="s-24 w-700">Stay up to date with our news, ideas and updates</h5>
-
-								<!-- Form -->
-								<form class="newsletter-form purple-focus">
-										
-									<div class="input-group">
-										<input type="email" autocomplete="off" class="form-control" placeholder="Your email address" required id="s-email">								
-										<span class="input-group-btn">
-											<button type="submit" class="btn btn--theme hover--theme">Subscribe Now</button>
-										</span>										
-									</div>
-
-									<!-- Newsletter Form Notification -->	
-									<label for="s-email" class="form-notification"></label>
-												
-								</form>	
-
-							</div>	<!-- END NEWSLETTER FORM -->	
-
-
-			            </div>	<!-- END MODAL CONTENT -->
-
-
-					 </div>
-			    </div>
-			</div>	<!-- END MODAL WINDOW (NEWSLETTER FORM) -->
-
-
+			
 
 
 @endsection
