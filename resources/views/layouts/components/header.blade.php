@@ -26,16 +26,21 @@
                             <nav class="wsmenu clearfix">
                                 <ul class="wsmenu-list nav-theme">
                                     <!-- SIMPLE NAVIGATION LINK -->
-                                    <li class="nl-simple" aria-haspopup="true"><a href="/"
-                                            class="h-link">Home</a></li>
-                                            <li class="nl-simple" aria-haspopup="true">
-                                                <a href="services" class="h-link">Services</a>
-                                            </li>
+                                    <li class="nl-simple" aria-haspopup="true">
+                                        <a href="/" class="h-link">Home</a>
+                                    </li>
+                                    <li class="nl-simple" aria-haspopup="true">
+                                        <a href="services" class="h-link">Services</a>
+                                    </li>
+                                    <li class="nl-simple" aria-haspopup="true">
+                                        <a href="faq" class="h-link">Faq</a>
+                                    </li>
                                     <li class="nl-simple" aria-haspopup="true">
                                         <a href="about" class="h-link">About</a>
                                     </li>
-                                    <li class="nl-simple" aria-haspopup="true"><a href="contact-us"
-                                            class="h-link">Contact Us</a></li>
+                                    <li class="nl-simple" aria-haspopup="true">
+                                        <a href="contact-us" class="h-link">Contact</a>
+                                    </li>
                                 </ul>
                             </nav> <!-- END MAIN MENU -->
                         </div>

@@ -249,6 +249,207 @@
     
                 </div> <!-- End container -->
             </section> <!-- END TEXT CONTENT -->
+
+
+            			<!-- FEATURES-12
+			============================================= -->
+			<section id="features-12" class="shape--bg shape--white-500 pt-100 features-section division">
+				<div class="container">
+					<div class="row d-flex align-items-center">
+
+
+						<!-- TEXT BLOCK -->	
+						<div class="col-md-5">
+							<div class="txt-block left-column wow fadeInRight">
+
+								<!-- Section ID -->	
+						 		<span class="section-id">One-Stop Solution</span>
+	
+								<!-- Title -->	
+								<h2 class="s-46 w-700">Smart solutions, real-time results</h2>
+
+								<!-- Text -->	
+								<p>Sodales tempor sapien quaerat ipsum and congue undo laoreet turpis neque auctor turpis 
+									vitae dolor luctus placerat magna ligula and cursus vitae
+								</p>
+
+								<!-- CONTENT BOX #1 -->
+								<div class="cbox-1 ico-15">
+
+		 							<div class="ico-wrap color--theme">
+		 								<div class="cbox-1-ico"><span class="flaticon-check"></span></div>
+		 							</div>
+
+									<div class="cbox-1-txt">
+										<p>Magna dolor luctus at egestas sapien</p>
+									</div>
+
+								</div>
+
+								<!-- CONTENT BOX #2 -->
+								<div class="cbox-1 ico-15">
+
+		 							<div class="ico-wrap color--theme">
+		 								<div class="cbox-1-ico"><span class="flaticon-check"></span></div>
+		 							</div>
+
+									<div class="cbox-1-txt">
+										<p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien 
+										   turpis and ultrice magnis
+										</p>
+									</div>
+
+								</div>
+
+								<!-- CONTENT BOX #3 -->
+								<div class="cbox-1 ico-15">
+
+		 							<div class="ico-wrap color--theme">
+		 								<div class="cbox-1-ico"><span class="flaticon-check"></span></div>
+		 							</div>
+
+									<div class="cbox-1-txt">
+										<p class="mb-0">Volute turpis dolores and sagittis congue</p>
+									</div>
+
+								</div>
+								
+							</div>
+						</div>	<!-- END TEXT BLOCK -->	
+
+
+						<!-- FEATURES-12 WRAPPER -->
+						<div class="col-md-7">
+							<div class="fbox-12-wrapper wow fadeInLeft">	
+								<div class="row">
+
+
+				 					<div class="col-md-6">
+
+				 						<!-- FEATURE BOX #1 -->
+				 						<div id="fb-12-1" class="fbox-12 bg--white-100 block-shadow r-12 mb-30">
+
+											<!-- Icon -->
+											<div class="fbox-ico ico-50">
+												<div class="shape-ico color--theme">
+
+													<!-- Vector Icon -->
+													<span class="flaticon-layers-1"></span>
+
+													<!-- Shape -->
+													<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+													 <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+													</svg>
+
+												</div>
+											</div>	<!-- End Icon -->
+
+											<!-- Text -->
+											<div class="fbox-txt">
+												<h5 class="s-19 w-700">Content Marketing</h5>
+												<p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+											</div>
+
+				 						</div>
+
+				 						<!-- FEATURE BOX #2 -->
+				 						<div id="fb-12-2" class="fbox-12 bg--white-100 block-shadow r-12">
+
+											<!-- Icon -->
+											<div class="fbox-ico ico-50">
+												<div class="shape-ico color--theme">
+
+													<!-- Vector Icon -->
+													<span class="flaticon-tutorial"></span>
+
+													<!-- Shape -->
+													<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+													  <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+													</svg>
+
+												</div>
+											</div>	<!-- End Icon -->
+
+											<!-- Text -->
+											<div class="fbox-txt">
+												<h5 class="s-19 w-700">Video Marketing</h5>
+												<p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+											</div>
+
+				 						</div>
+
+
+				 					</div>
+
+
+				 					<div class="col-md-6">
+
+
+				 						<!-- FEATURE BOX #3 -->
+				 						<div id="fb-12-3" class="fbox-12 bg--white-100 block-shadow r-12 mb-30">
+
+				 							<!-- Icon -->
+											<div class="fbox-ico ico-50">
+												<div class="shape-ico color--theme">
+
+													<!-- Vector Icon -->
+													<span class="flaticon-pay-per-click"></span>
+
+													<!-- Shape -->
+													<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+													  <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+													</svg>
+
+												</div>
+											</div>	<!-- End Icon -->
+
+											<!-- Text -->
+											<div class="fbox-txt">
+												<h5 class="s-19 w-700">Pay Per Click (PPC)</h5>
+												<p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+											</div>
+
+				 						</div>
+
+				 						<!-- FEATURE BOX #4 -->
+				 						<div id="fb-12-4" class="fbox-12 bg--white-100 block-shadow r-12">
+
+											<!-- Icon -->
+											<div class="fbox-ico ico-50">
+												<div class="shape-ico color--theme">
+
+													<!-- Vector Icon -->
+													<span class="flaticon-taxes"></span>
+
+													<!-- Shape -->
+													<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+													  <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+													</svg>
+
+												</div>
+											</div>	<!-- End Icon -->
+
+											<!-- Text -->
+											<div class="fbox-txt">
+												<h5 class="s-19 w-700">Business Analytics</h5>
+												<p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+											</div>
+
+				 						</div>
+
+
+				 					</div>
+
+
+				 				</div>
+							</div>	<!-- End row -->
+						</div>	<!-- END FEATURES-12 WRAPPER -->
+
+
+					</div>    <!-- End row -->
+				</div>     <!-- End container -->
+			</section>	<!-- END FEATURES-12 -->
+
     
     
             <!-- TEXT CONTENT
@@ -402,164 +603,328 @@
     
                 </div> <!-- End container -->
             </section> <!-- END TEXT CONTENT -->
-    
-    
-            <!-- FAQs-3
-                ============================================= -->
-            <section id="faqs-3" class="py-100 faqs-section">
-                <div class="container">
-    
-    
-                    <!-- SECTION TITLE -->
-                    <div class="row justify-content-center">
-                        <div class="col-md-10 col-lg-9">
-                            <div class="section-title mb-70">
-    
-                                <!-- Title -->
-                                <h2 class="s-50 w-700">Questions & Answers</h2>
-    
-                                <!-- Text -->
-                                <!-- <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p> -->
-    
-                            </div>
-                        </div>
-                    </div>
-    
-    
-                    <!-- FAQs-3 QUESTIONS -->
-                    <div class="faqs-3-questions">
-                        <div class="row">
-    
-    
-                            <!-- QUESTIONS HOLDER -->
-                            <div class="col-lg-6">
-                                <div class="questions-holder">
-    
-    
-                                    <div class="question mb-35 wow fadeInUp">
-                                        <!-- Question -->
-                                        <h5 class="s-22 w-700"><span>1.</span>What services does WebCore Digital Solutions
-                                            offer?</h5>
-                                        <!-- Answer -->
-                                        <p class="color--grey">We specialize in web development, SEO, social media
-                                            management, and digital marketing. Our goal is to help small businesses in Perth
-                                            enhance their online presence and achieve measurable results.
-                                        </p>
-                                    </div>
-    
-                                    <div class="question mb-35 wow fadeInUp">
-                                        <!-- Question -->
-                                        <h5 class="s-22 w-700"><span>2.</span>Why is SEO important for my business?</h5>
-                                        <!-- Answer -->
-                                        <p class="color--grey">SEO (Search Engine Optimization) improves your website’s
-                                            visibility on search engines like Google. Higher visibility means more traffic
-                                            to your site, which can lead to more leads and conversions, ultimately helping
-                                            your business grow.
-                                        </p>
-                                    </div>
-    
-                                    <div class="question mb-35 wow fadeInUp">
-                                        <!-- Question -->
-                                        <h5 class="s-22 w-700"><span>3.</span>How can social media management benefit my
-                                            business?</h5>
-                                        <!-- Answer -->
-                                        <p class="color--grey">Social media management helps you engage with your audience,
-                                            build brand awareness, and drive traffic to your website. By creating and
-                                            curating content, we help you connect with customers and build a loyal
-                                            following.
-                                        </p>
-                                    </div>
-    
-                                    <div class="question mb-35 wow fadeInUp">
-                                        <!-- Question -->
-                                        <h5 class="s-22 w-700"><span>4.</span>What is included in your digital marketing
-                                            services?</h5>
-                                        <!-- Answer -->
-                                        <p class="color--grey">Our digital marketing services include pay-per-click (PPC)
-                                            advertising, content marketing, email marketing, and conversion rate
-                                            optimization (CRO). We tailor our approach to meet your specific business needs
-                                            and goals.
-                                        </p>
-                                    </div>
-    
-                                    <div class="question mb-35 wow fadeInUp">
-                                        <!-- Question -->
-                                        <h5 class="s-22 w-700"><span>5.</span>How do you ensure the success of your digital
-                                            strategies?</h5>
-                                        <!-- Answer -->
-                                        <p class="color--grey">We start by understanding your business and objectives, then
-                                            craft customized strategies. We implement these strategies with precision,
-                                            continuously monitor performance, and optimize for the best results. Transparent
-                                            reporting keeps you informed of progress.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div> <!-- END QUESTIONS HOLDER -->
-    
-    
-                            <!-- QUESTIONS WRAPPER -->
-                            <div class="col-lg-6">
-                                <div class="questions-holder">
-    
-                                    <div class="question mb-35 wow fadeInUp">
-                                        <!-- Question -->
-                                        <h5 class="s-22 w-700"><span>6.</span>How long does it take to see results from SEO?
-                                        </h5>
-                                        <!-- Answer -->
-                                        <p class="color--grey">SEO is a long-term strategy, and while some improvements can
-                                            be seen within a few months, it typically takes 6-12 months to see significant
-                                            results. The timeline depends on factors like your industry, competition, and
-                                            the current state of your website.
-                                        </p>
-                                    </div>
-    
-                                    <div class="question mb-35 wow fadeInUp">
-                                        <!-- Question -->
-                                        <h5 class="s-22 w-700"><span>7.</span>Can you help redesign an existing website?
-                                        </h5>
-                                        <!-- Answer -->
-                                        <p class="color--grey">Absolutely! We can redesign your existing website to improve
-                                            its look, performance, and user experience. Our goal is to create a site that
-                                            not only looks great but also supports your business goals.
-                                        </p>
-                                    </div>
-    
-                                    <div class="question mb-35 wow fadeInUp">
-                                        <!-- Question -->
-                                        <h5 class="s-22 w-700"><span>8.</span>What makes WebCore Digital Solutions different
-                                            from other digital agencies?</h5>
-                                        <!-- Answer -->
-                                        <p class="color--grey">At WebCore Digital Solutions, we take a personalized approach
-                                            to every project. We focus on understanding your business and delivering
-                                            tailored solutions that drive real results. Our commitment to transparency,
-                                            communication, and long-term partnerships sets us apart.
-                                    </div>
-    
-                                    <div class="question mb-35 wow fadeInUp">
-                                        <!-- Question -->
-                                        <h5 class="s-22 w-700"><span>9.</span>: How do I get started with WebCore Digital
-                                            Solutions?</h5>
-                                        <!-- Answer -->
-                                        <p class="color--grey">Getting started is easy! Simply contact us to discuss your
-                                            needs. We’ll schedule a free consultation to explore how we can help your
-                                            business succeed online.
-                                    </div>
-                                </div>
-                            </div> <!-- END QUESTIONS HOLDER -->
-    
-    
-                        </div> <!-- End row -->
-                    </div> <!-- END FAQs-3 QUESTIONS -->    
-    
-                </div> <!-- End container -->
-            </section> <!-- END FAQs-3 -->
+
+            			<!-- TESTIMONIALS-1
+			============================================= -->
+			<section id="reviews-1" class="pt-100 shape--06 shape--gr-whitesmoke reviews-section">
+				<div class="container">
+					<!-- SECTION TITLE -->	
+					<div class="row justify-content-center">	
+						<div class="col-md-10 col-lg-9">
+							<div class="section-title mb-70">	
+
+								<!-- Title -->	
+								<h2 class="s-50 w-700">Here’s what our amazing clients are saying</h2>	
+
+								<!-- Text -->	
+								<p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+									
+							</div>	
+						</div>
+					</div>
+
+
+					<!-- TESTIMONIALS CONTENT -->
+					<div class="row">
+						<div class="col">					
+							<div class="owl-carousel owl-theme reviews-1-wrapper">
+
+
+								<!-- TESTIMONIAL #1 -->
+								<div class="review-1 bg--white-100 block-shadow r-08">
+
+									<!-- Quote Icon -->
+		 							<div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
+
+									<!-- Text -->
+									<div class="review-txt">
+
+										<!-- Text -->
+										<p>Etiam sapien sagittis congue augue a massa varius egestas ultrice varius magna 
+										   a tempus aliquet undo cursus suscipit 			   
+										</p>
+
+										<!-- Author -->
+										<div class="author-data clearfix">
+
+											<!-- Avatar -->
+											<div class="review-avatar">
+												<img src="images/review-author-1.jpg" alt="review-avatar">
+											</div>
+														
+											<!-- Data -->
+											<div class="review-author">
+												<h6 class="s-18 w-700">Scott Boxer</h6>
+												<p class="p-sm">@scott_boxer</p>
+											</div>	
+
+										</div>	<!-- End Author -->
+
+									</div>	<!-- End Text -->
+
+								</div>	<!-- END TESTIMONIAL #1 -->
+
+
+								<!-- TESTIMONIAL #2 -->
+								<div class="review-1 bg--white-100 block-shadow r-08">
+
+									<!-- Quote Icon -->
+		 							<div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
+
+									<!-- Text -->
+									<div class="review-txt">
+
+										<!-- Text -->
+										<p>At sagittis congue augue diam egestas magna an ipsum vitae purus ipsum primis 
+										   and cubilia laoreet augue egestas a luctus donec ltrice ligula porta augue magna 
+										   suscipit lectus gestas		   
+										</p>
+
+										<!-- Author -->
+										<div class="author-data clearfix">
+
+											<!-- Avatar -->
+											<div class="review-avatar">
+												<img src="images/review-author-2.jpg" alt="review-avatar">
+											</div>
+														
+											<!-- Data -->
+											<div class="review-author">
+												<h6 class="s-18 w-700">Joel Peterson</h6>
+												<p class="p-sm">Internet Surfer</p>
+											</div>	
+
+										</div>	<!-- End Author -->
+
+									</div>	<!-- End Text -->
+
+								</div>	<!-- END TESTIMONIAL #2 -->
+						
+						
+								<!-- TESTIMONIAL #3 -->
+								<div class="review-1 bg--white-100 block-shadow r-08">
+
+									<!-- Quote Icon -->
+		 							<div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
+
+									<!-- Text -->
+									<div class="review-txt">
+
+										<!-- Text -->
+										<p>Mauris gestas magnis a sapien etiam sapien congue an augue egestas and ultrice 
+										   vitae purus diam an integer congue magna ligula egestas magna suscipit 
+										</p>
+
+										<!-- Author -->
+										<div class="author-data clearfix">
+
+											<!-- Avatar -->
+											<div class="review-avatar">
+												<img src="images/review-author-3.jpg" alt="review-avatar">
+											</div>
+														
+											<!-- Data -->
+											<div class="review-author">
+												<h6 class="s-18 w-700">Marisol19</h6>
+												<p class="p-sm">@marisol19</p>
+											</div>	
+
+										</div>	<!-- End Author -->
+
+									</div>	<!-- End Text -->
+
+								</div>	<!-- END TESTIMONIAL #3 -->
+
+
+								<!-- TESTIMONIAL #4 -->
+								<div class="review-1 bg--white-100 block-shadow r-08">
+
+									<!-- Quote Icon -->
+		 							<div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
+
+									<!-- Text -->
+									<div class="review-txt">
+
+										<!-- Text -->
+										<p>Mauris donec a magnis sapien etiam pretium a congue augue volutpat lectus 
+										   aenean magna and undo mauris lectus laoreet tempor egestas rutrum
+										</p>
+
+										<!-- Author -->
+										<div class="author-data clearfix">
+
+											<!-- Avatar -->
+											<div class="review-avatar">
+												<img src="images/review-author-4.jpg" alt="review-avatar">
+											</div>
+														
+											<!-- Data -->
+											<div class="review-author">
+												<h6 class="s-18 w-700">Leslie D.</h6>
+												<p class="p-sm">Web Developer</p>
+											</div>	
+
+										</div>	<!-- End Author -->
+
+									</div>	<!-- End Text -->
+
+								</div>	<!-- END TESTIMONIAL #4 -->
+								
+								
+								<!-- TESTIMONIAL #5 -->
+								<div class="review-1 bg--white-100 block-shadow r-08">
+
+									<!-- Quote Icon -->
+		 							<div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
+
+									<!-- Text -->
+									<div class="review-txt">
+
+										<!-- Text -->
+										<p>An augue cubilia undo laoreet magna suscipit egestas ipsum lectus purus ipsum 
+										   and primis augue an ultrice ligula egestas suscipit a lectus gestas auctor tempus 
+										   feugiat impedit   
+										</p>
+
+										<!-- Author -->
+										<div class="author-data clearfix">
+
+											<!-- Avatar -->
+											<div class="review-avatar">
+												<img src="images/review-author-5.jpg" alt="review-avatar">
+											</div>
+														
+											<!-- Data -->
+											<div class="review-author">
+												<h6 class="s-18 w-700">Jennifer Harper</h6>
+												<p class="p-sm">App Developer</p>
+											</div>	
+
+										</div>	<!-- End Author -->
+
+									</div>	<!-- End Text -->
+
+								</div>	<!-- END TESTIMONIAL #5 -->
+								
+								
+								<!-- TESTIMONIAL #6 -->
+								<div class="review-1 bg--white-100 block-shadow r-08">
+
+									<!-- Quote Icon -->
+		 							<div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
+
+									<!-- Text -->
+									<div class="review-txt">
+
+										<!-- Text -->
+										<p>An augue cubilia laoreet undo magna ipsum semper suscipit egestas magna ipsum 
+										   ligula a vitae purus and ipsum primis cubilia magna suscipit			   
+										</p>
+
+										<!-- Author -->
+										<div class="author-data clearfix">
+
+											<!-- Avatar -->
+											<div class="review-avatar">
+												<img src="images/review-author-6.jpg" alt="review-avatar">
+											</div>
+														
+											<!-- Data -->
+											<div class="review-author">
+												<h6 class="s-18 w-700">Jonathan Barnes</h6>
+												<p class="p-sm">jQuery Programmer</p>
+											</div>	
+
+										</div>	<!-- End Author -->
+
+									</div>	<!-- End Text -->
+
+								</div>	<!-- END TESTIMONIAL #6 -->
+								
+								
+								<!-- TESTIMONIAL #7 -->
+								<div class="review-1 bg--white-100 block-shadow r-08">
+
+									<!-- Quote Icon -->
+		 							<div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
+
+									<!-- Text -->
+									<div class="review-txt">
+
+										<!-- Text -->
+										<p>Augue egestas porta tempus volutpat egestas augue cubilia laoreet a magna 
+										   suscipit luctus dolor blandit vitae purus neque tempus an aliquet porta gestas 
+										   rutrum blandit vitae
+										</p>
+
+										<!-- Author -->
+										<div class="author-data clearfix">
+
+											<!-- Avatar -->
+											<div class="review-avatar">
+												<img src="images/review-author-7.jpg" alt="review-avatar">
+											</div>
+														
+											<!-- Data -->
+											<div class="review-author">
+												<h6 class="s-18 w-700">Mike Harris</h6>
+												<p class="p-sm">Graphic Designer</p>
+											</div>	
+
+										</div>	<!-- End Author -->
+
+									</div>	<!-- End Text -->
+
+								</div>	<!-- END TESTIMONIAL #7 -->
+
+
+								<!-- TESTIMONIAL #8 -->
+								<div class="review-1 bg--white-100 block-shadow r-08">
+
+									<!-- Quote Icon -->
+		 							<div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
+
+									<!-- Text -->
+									<div class="review-txt">
+
+										<!-- Text -->
+										<p>Augue at vitae purus tempus egestas volutpat augue undo cubilia laoreet magna 
+										   suscipit luctus dolor blandit at purus tempus feugiat impedit
+										</p>
+
+										<!-- Author -->
+										<div class="author-data clearfix">
+
+											<!-- Avatar -->
+											<div class="review-avatar">
+												<img src="images/review-author-8.jpg" alt="review-avatar">
+											</div>
+														
+											<!-- Data -->
+											<div class="review-author">
+												<h6 class="s-18 w-700">Evelyn Martinez</h6>
+												<p class="p-sm">WordPress Consultant</p>
+											</div>	
+
+										</div>	<!-- End Author -->
+
+									</div>	<!-- End Text -->
+
+								</div>	<!-- END TESTIMONIAL #8 -->
+
+
+							</div>
+						</div>
+					</div>	<!-- END TESTIMONIALS CONTENT -->
+
+
+				</div>	   <!-- End container -->
+			</section>	<!-- END TESTIMONIALS-1 -->
 
 			<!-- BANNER-13
 			============================================= -->
-			<section id="banner-13" class="banner-section">
+			<section class="banner-section">
 				<div class="container">
-
-
 					<!-- BANNER-13 WRAPPER -->
 					<div class="banner-13-wrapper bg--05 bg--scroll r-16 block-shadow">
 						<div class="banner-overlay">

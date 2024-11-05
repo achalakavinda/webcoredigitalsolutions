@@ -21,3 +21,8 @@ Route::get('/services', function ()
 {
     return view('service');
 });
+
+Route::get('/faq', function () 
+{
+    return view('faq');
+});
