@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 
+Route::post('/message', 'App\Http\Controllers\MessageController@Save');
+
+
 Route::get('/', function () {
     return view('home');
 });
@@ -15,7 +18,7 @@ Route::get('/about', function () {
 
 Route::get('/contact-us', function () {
     return view('contact');
-});
+})->name('contact-us');
 
 Route::get('/services', function () 
 {
@@ -26,3 +29,5 @@ Route::get('/faq', function ()
 {
     return view('faq');
 });
+
+

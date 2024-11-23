@@ -18,7 +18,7 @@
 								<h2 class="s-52 w-700">Questions? Let's Talk</h2>	
 
 								<!-- Text -->	
-								<p class="p-lg">Want to learn more about Martex, get a quote, or speak with an expert? 
+								<p class="p-lg">Want to learn more about our solutions, get a quote, or speak with an expert? 
 									Let us know what you are looking for and we’ll get back to you right away
 								</p>
 									
@@ -31,19 +31,20 @@
 				 	<div class="row justify-content-center">	
 				 		<div class="col-md-11 col-lg-10 col-xl-8">
 				 			<div class="form-holder">
-								<form name="contactform" class="row contact-form">
 
+								<form name="contactform" class="row contact-form" method="post" action="{{url('message')}}">
+
+									@csrf()
 									<!-- Form Select -->
 									<div class="col-md-12 input-subject">
 										<p class="p-lg">This question is about: </p>
 										<span>Choose a topic, so we know who to send your request to: </span>
 										<select class="form-select subject" aria-label="Default select example">
 									    	<option selected>This question is about...</option>	
-											<option>Registering/Authorising</option>
-											<option>Using Application</option>
-											<option>Troubleshooting</option>
-											<option>Backup/Restore</option>
-											<option>Other</option>
+											<option value="New Website">New Website</option>
+											<option value="Troubleshooting">Troubleshooting</option>
+											<option value="Backup_Restore">Backup/Restore</option>
+											<option value="Other">Other</option>
 									    </select>
 									</div>
 																						
@@ -82,9 +83,10 @@
 									<!-- Contact Form Message -->
 									<div class="col-lg-12 contact-form-msg">
 										<span class="loading"></span>
-									</div>	
-																							
-								</form>	
+									</div>											
+								</form>
+
+
 				 			</div>	
 				 		</div>	
 				 	</div>	   <!-- END CONTACT FORM -->
