@@ -1,10 +1,6 @@
 @extends('layouts.web')
 
 @section('content')
-
-
-            <!-- HERO-7
-                ============================================= -->
             <section id="hero-7" class="gr--perl hero-section">
                 <div class="hero-overlay">
                     <div class="container">
@@ -16,14 +12,10 @@
                                 <div class="hero-7-txt wow fadeInRight">
     
                                     <!-- Title -->
-                                    <h2 class="s-54 w-700">IT Solutions to help your business grow!</h2>
+                                    <h2 class="s-45 w-700">Empower Your Growth with Cutting-Edge IT Solutions</h2>
     
                                     <!-- Text -->
-                                    <p class="p-lg">Welcome to WebCore Digital Solutions, where your business’s digital
-                                        potential comes to life. We specialize in crafting customized web development, SEO,
-                                        and social media strategies that elevate your brand and drive tangible results.
-                                        Whether you’re a startup or an established business, our expert team is here to help
-                                        you succeed online.
+                                    <p class="p-lg">Ready to transform your business? Our innovative IT solutions are designed to streamline operations, boost efficiency, and drive success. Whether you're a bulding startup or an established company, we provide scalable and custom strategies to help you thrive in today's competitive landscape.
                                     </p>
     
                                     <!-- HERO QUICK FORM -->
@@ -78,11 +70,9 @@
                         </div> <!-- End row -->
                     </div> <!-- End container -->
                 </div> <!-- End hero-overlay -->
-            </section> <!-- END HERO-7 -->
+            </section>
     
-    
-            <!-- FEATURES-6
-                ============================================= -->
+
             <section id="features-6" class="pb-100 features-section division">
                 <div class="container">
                     <div class="fbox-wrapper text-center">
@@ -106,8 +96,7 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h6 class="s-20 w-700">Web Development</h6>
-                                        <p>We design and build websites that are not only visually appealing but also
-                                            optimized for user experience and performance.</p>
+                                        <p>Crafting websites that captivate, engage, and deliver results. Our designs are more than just eye candy—they're seamless, intuitive, and optimized to maximize performance and user satisfaction.</p>
                                     </div>
     
                                 </div>
@@ -134,13 +123,10 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h6 class="s-20 w-700">Social Media Managment</h6>
-                                        <p>We manage your social media presence to engage your audience and grow your
-                                            brand’s online community.</p>
+                                        <p>Turn followers into a thriving community! We manage, curate, and create social media magic that not only sparks conversations but builds lasting connections for your brand.</p>
                                     </div>
                                 </div>
                             </div> <!-- END FEATURE BOX #1 -->
-    
-    
     
                             <!-- FEATURE BOX #3 -->
                             <div class="col">
@@ -166,8 +152,7 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h6 class="s-20 w-700">Digital Marketing</h6>
-                                        <p>Our proven SEO strategies will boost your visibility on search engines, driving
-                                            organic traffic to your website.</p>
+                                        <p>Rise above the noise with tailored marketing strategies. From dynamic PPC campaigns to compelling content, we drive leads, engagement, and measurable growth for your business.</p>
                                     </div>
     
                                 </div>
@@ -198,8 +183,7 @@
                                     <!-- Text -->
                                     <div class="fbox-txt">
                                         <h6 class="s-20 w-700">SEO Services</h6>
-                                        <p>From PPC campaigns to content marketing, our digital marketing services are
-                                            designed to generate leads and increase your online reach.</p>
+                                        <p>Be seen. Be found. Be unforgettable. Our proven SEO techniques elevate your rankings, fuel organic traffic, and ensure your brand stands out in the digital landscape.</p>
                                     </div>
     
                                 </div>
@@ -207,11 +191,9 @@
                         </div> <!-- End row -->
                     </div> <!-- END FEATURES-6 WRAPPER -->
                 </div> <!-- End container -->
-            </section> <!-- END FEATURES-6 -->
+            </section>
 
     
-            <!-- TEXT CONTENT
-                ============================================= -->
             <section id="lnk-1" class="ct-02 content-section division">
                 <div class="container">
     
@@ -230,15 +212,13 @@
                             <div class="txt-block right-column wow fadeInLeft">
     
                                 <!-- Section ID -->
-                                <span class="section-id">Whats on Client Mind?</span>
+                                <span class="section-id">What’s on Your Mind?</span>
     
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">How can I grow my buisness using IT solutions</h2>
+                                <h2 class="s-46 w-700">How can I grow my business with IT solutions?</h2>
     
                                 <!-- Text -->
-                                <p>At WebCore Digital Solutions, we believe that success in the digital world is driven by a
-                                    combination of the right strategies and flawless execution. Here’s how we help your
-                                    business achieve its goals:
+                                <p>At WebCore Digital Solutions, we turn your vision into reality with smart strategies and flawless execution. From eye-catching websites to impactful digital marketing, we deliver the tools you need to thrive in the digital world.
                                 </p>    
                             </div>
                         </div> <!-- END TEXT BLOCK -->
@@ -263,14 +243,13 @@
 							<div class="txt-block left-column wow fadeInRight">
 
 								<!-- Section ID -->	
-						 		<span class="section-id">One-Stop Solution</span>
+						 		<span class="section-id">Your One-Stop Digital Solution</span>
 	
 								<!-- Title -->	
-								<h2 class="s-46 w-700">Smart solutions, real-time results</h2>
+								<h2 class="s-46 w-700">Smart Strategies, Real Results</h2>
 
 								<!-- Text -->	
-								<p>Sodales tempor sapien quaerat ipsum and congue undo laoreet turpis neque auctor turpis 
-									vitae dolor luctus placerat magna ligula and cursus vitae
+								<p>From content marketing to business analytics, we provide everything you need to grow and thrive in the digital world.
 								</p>
 
 								<!-- CONTENT BOX #1 -->
@@ -281,7 +260,7 @@
 		 							</div>
 
 									<div class="cbox-1-txt">
-										<p>Magna dolor luctus at egestas sapien</p>
+										<p>Harness the power of modern tools and frameworks.</p>
 									</div>
 
 								</div>
@@ -294,8 +273,7 @@
 		 							</div>
 
 									<div class="cbox-1-txt">
-										<p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien 
-										   turpis and ultrice magnis
+										<p>IT strategies that align with your unique goals.
 										</p>
 									</div>
 
@@ -309,7 +287,7 @@
 		 							</div>
 
 									<div class="cbox-1-txt">
-										<p class="mb-0">Volute turpis dolores and sagittis congue</p>
+										<p class="mb-0">Reliable and ongoing support for your peace of mind.</p>
 									</div>
 
 								</div>
@@ -347,7 +325,7 @@
 											<!-- Text -->
 											<div class="fbox-txt">
 												<h5 class="s-19 w-700">Content Marketing</h5>
-												<p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+												<p>Create, captivate, and convert.</p>
 											</div>
 
 				 						</div>
@@ -373,7 +351,7 @@
 											<!-- Text -->
 											<div class="fbox-txt">
 												<h5 class="s-19 w-700">Video Marketing</h5>
-												<p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+												<p>Engage your audience with dynamic visuals.</p>
 											</div>
 
 				 						</div>
@@ -406,7 +384,7 @@
 											<!-- Text -->
 											<div class="fbox-txt">
 												<h5 class="s-19 w-700">Pay Per Click (PPC)</h5>
-												<p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+												<p>Drive traffic, leads, and sales.</p>
 											</div>
 
 				 						</div>
@@ -432,15 +410,11 @@
 											<!-- Text -->
 											<div class="fbox-txt">
 												<h5 class="s-19 w-700">Business Analytics</h5>
-												<p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+												<p>Turn data into actionable insights.</p>
 											</div>
 
 				 						</div>
-
-
 				 					</div>
-
-
 				 				</div>
 							</div>	<!-- End row -->
 						</div>	<!-- END FEATURES-12 WRAPPER -->
@@ -477,9 +451,7 @@
                                     <!-- Text -->
                                     <div class="cbox-2-txt">
                                         <h5 class="s-22 w-700">Understanding Your Needs</h5>
-                                        <p>We start by getting to know your business, its goals, and its challenges. This
-                                            deep understanding allows us to tailor our strategies to meet your specific
-                                            needs.
+                                        <p>We take time to understand your goals and challenges to craft a focused approach.
                                         </p>
                                     </div>
     
@@ -497,11 +469,8 @@
     
                                     <!-- Text -->
                                     <div class="cbox-2-txt">
-                                        <h5 class="s-22 w-700">Crafting a Tailored Strategy</h5>
-                                        <p>Our team develops a customized digital strategy that aligns with your business
-                                            objectives. Whether it’s boosting your online visibility, enhancing user
-                                            engagement, or driving sales, we craft a plan that’s designed to deliver
-                                            results.
+                                        <h5 class="s-22 w-700">Tailored Strategy</h5>
+                                        <p>Our team designs custom plans aligned with your business objectives for maximum impact.
                                         </p>
                                     </div>
     
@@ -518,10 +487,8 @@
     
                                     <!-- Text -->
                                     <div class="cbox-2-txt">
-                                        <h5 class="s-22 w-700">Expert Implementation</h5>
-                                        <p class="mb-0">With a solid strategy in place, our experts move into action. We
-                                            implement each element of your digital plan with precision, ensuring that every
-                                            aspect is optimized for maximum impact.
+                                        <h5 class="s-22 w-700">Expert Execution</h5>
+                                        <p class="mb-0">Precise implementation ensures every element is optimized to deliver measurable results.
                                         </p>
                                     </div>
     
@@ -545,10 +512,8 @@
     
                                     <!-- Text -->
                                     <div class="cbox-2-txt">
-                                        <h5 class="s-22 w-700">Continuous Monitoring & Optimization</h5>
-                                        <p class="mb-0">Success is an ongoing process. We continually monitor the
-                                            performance of your digital campaigns, making data-driven adjustments to enhance
-                                            results and keep your business ahead of the competition.
+                                        <h5 class="s-22 w-700">Continuous Optimization</h5>
+                                        <p class="mb-0">We refine strategies with data-driven insights to enhance performance and stay ahead.
                                         </p>
                                     </div>
     
@@ -565,9 +530,7 @@
                                     <div class="cbox-2-txt">
                                         <h5 class="s-22 w-700">Transparent Reporting</h5>
                                         <p class="mb-0">
-                                            We believe in full transparency. Our clients receive regular, detailed reports
-                                            that clearly show the progress and impact of our efforts, keeping you informed
-                                            every step of the way.
+											Receive clear, actionable updates on your progress every step of the way.
                                         </p>
                                     </div>
     
@@ -584,29 +547,24 @@
                                     <div class="cbox-2-txt">
                                         <h5 class="s-22 w-700">Long-Term Success</h5>
                                         <p class="mb-0">
-                                            Our ultimate goal is to foster long-term success for your business. By building
-                                            a strong, sustainable digital presence, we help you achieve and maintain a
-                                            competitive edge in your industry.
+                                            Build a strong foundation for sustainable growth and maintain your competitive edge.
                                         </p>
                                     </div>
     
-                                </div>
-    
-    
-    
+                                </div>    
                             </div>
                         </div> <!-- END TEXT BLOCK -->
     
     
                     </div> <!-- END SECTION CONTENT (ROW) -->
     
-    
+					<br/><br/>
                 </div> <!-- End container -->
             </section> <!-- END TEXT CONTENT -->
 
             			<!-- TESTIMONIALS-1
 			============================================= -->
-			<section id="reviews-1" class="pt-100 shape--06 shape--gr-whitesmoke reviews-section">
+			{{-- <section id="reviews-1" class="pt-100 shape--06 shape--gr-whitesmoke reviews-section">
 				<div class="container">
 					<!-- SECTION TITLE -->	
 					<div class="row justify-content-center">	
@@ -919,7 +877,7 @@
 
 
 				</div>	   <!-- End container -->
-			</section>	<!-- END TESTIMONIALS-1 -->
+			</section>	<!-- END TESTIMONIALS-1 --> --}}
 
 			<!-- BANNER-13
 			============================================= -->
@@ -930,25 +888,22 @@
 						<div class="banner-overlay">
 							<div class="row d-flex align-items-center">
 
-
 								<!-- BANNER-5 TEXT -->
 								<div class="col-md-7">
 									<div class="banner-13-txt color--white">
 
 										<!-- Title -->	
-										<h2 class="s-46 w-700">Getting started with Martex today!</h2>
+										<h2 class="s-46 w-700">Get Started with WebCore Today!</h2>
 
 										<!-- Text -->
-										<p class="p-lg">Congue laoreet turpis neque auctor turpis vitae dolor a luctus 
-											placerat and magna ligula cursus
+										<p class="p-lg">Take the first step toward transforming your business. Discover innovative solutions tailored to your success—because growth starts here.
 										</p>
 
 										<!-- Button -->
-										<a href="signup-1.html" class="btn r-04 btn--theme hover--tra-white">Get srarted - it's free</a>
+										<a href="/contact-us" class="btn r-04 btn--theme hover--tra-white">Get srarted - it's free</a>
 
 									</div>
 								</div>	<!-- END BANNER-13 TEXT -->
-
 
 								<!-- BANNER-13 IMAGE -->
 								<div class="col-md-5">
@@ -956,15 +911,9 @@
 										<img class="img-fluid" src="images/img-04.png" alt="banner-image">
 									</div>	
 								</div>
-
-
 							</div>   <!-- End row -->	
 						</div>   <!-- End banner overlay -->	
 					</div>    <!-- END BANNER-13 WRAPPER -->
-
-					
-
-
 				</div>     <!-- End container -->	
 			</section>	<!-- END BANNER-13 -->
 
@@ -1028,8 +977,4 @@
                     </div>
                 </div>
             </div> <!-- END MODAL WINDOW (NEWSLETTER FORM) -->
-    
-    
-
-
 @endsection

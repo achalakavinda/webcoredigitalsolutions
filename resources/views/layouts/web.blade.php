@@ -1,5 +1,5 @@
 <!doctype html>
-<!-- Martex - Software, App, SaaS & Startup Landing Pages Pack design by DSAThemes (http://www.dsathemes.com) -->
+<!-- Welcome to WebCore Digital Solutions—your partner in unlocking digital potential. We specialize in tailored web development, SEO, and social media strategies that boost your brand and deliver measurable results. Let us help your business succeed online. -->
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
 <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
@@ -10,12 +10,12 @@
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="author" content="DSAThemes">
-	<meta name="description"
-		content="Welcome to WebCore Digital Solutions, where your business’s digital potential comes to life. We specialize in crafting customized web development, SEO, and social media strategies that elevate your brand and drive tangible results. Whether you’re a startup or an established business, our expert team is here to help you succeed online.">
-	<meta name="keywords"
-		content="Web development in perth, development in perth, webisite, social media marketing in perth">
+	<meta name="author" content="Webcore Digital Solutions">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Welcome to WebCore Digital Solutions—your partner in unlocking digital potential. We specialize in tailored web development, SEO, and social media strategies that boost your brand and deliver measurable results. Let us help your business succeed online.">
+	<meta name="keywords"
+		content="Web Development in Perth, Website Design Perth, Social Media Marketing in Perth, Digital Marketing Perth, SEO Services Perth, Custom Web Solutions, Perth Web Development Company, Online Marketing Perth, Perth Website Development, Perth Digital Solutions">
+
 
 	<!-- SITE TITLE -->
 	<title>Web Core Digital Solutions - Digital Solutions that drives results for your business</title>
@@ -52,7 +52,6 @@
 	<link href="css/lunar.css" rel="stylesheet">
 	<link href="css/bird.css" rel="stylesheet">
 
-
 	<!-- ON SCROLL ANIMATION -->
 	<link href="css/animate.css" rel="stylesheet">
 	<!-- TEMPLATE CSS -->
@@ -72,7 +71,7 @@
 	<!-- PAGE CONTENT
 		============================================= -->
 	<div id="page" class="page font--jakarta">
-        
+
 		@include("layouts.components.header")
 
         @yield("content")
@@ -81,9 +80,6 @@
 
 
 	</div> <!-- END PAGE CONTENT -->
-
-
-
 
 	<!-- EXTERNAL SCRIPTS
 		============================================= -->
@@ -118,12 +114,6 @@
 		</script>
 @endenv
 
-	
-
-
 </body>
-
-
-
 
 </html>
