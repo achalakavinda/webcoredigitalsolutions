@@ -19,7 +19,7 @@
                                     </p>
     
                                     <!-- HERO QUICK FORM -->
-                                    <form name="quickform" class="quick-form form-shadow form-half mt-35">
+                                    <form method="post" action="{{url('message')}}" class="quick-form form-shadow form-half mt-35">
                                         <!-- Form Inputs -->
                                         <div class="input-group">
                                             <input type="email" name="email" class="form-control email r-06"
@@ -30,7 +30,7 @@
                                             </span>
                                         </div>
                                         <!-- Form Message -->
-                                        <div class="quick-form-msg"><span class="loading"></span></div>
+                                        {{-- <div class="quick-form-msg"><span class="loading"></span></div> --}}
                                     </form> <!-- END HERO QUICK FORM -->
                                 </div>
                             </div> <!-- END HERO TEXT -->

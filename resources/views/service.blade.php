@@ -15,28 +15,25 @@
 							<div class="txt-block left-column wow fadeInRight">
 
 								<!-- Section ID -->	
-						 		<span class="section-id">Our Services </span>
+						 		<span class="section-id">Our Core Services</span>
 
 								<!-- Title -->	
 								<h2 class="s-46 w-700">Achieve more with Us!</h2>
 
 								<!-- Text -->	
-								<p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis 
-								   vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit
+								<p>We specialize in empowering tech startups by offering tailored solutions to help you innovate, grow, and thrive in today’s competitive landscape.
 								</p>
 
 								<!-- List -->	
 								<ul class="simple-list">
 
 									<li class="list-item">
-										<p>Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice 
-											ipsum aliquam undo congue dolor cursus 
+										<p>Custom Web & Mobile Development: Responsive, user-friendly platforms tailored to your startup’s unique needs.
 										</p>
 									</li>
 
 									<li class="list-item">
-										<p class="mb-0">Cursus purus suscipit vitae cubilia magnis volute egestas vitae 
-											sapien turpis ultrice auctor congue placerat
+										<p class="mb-0">Scalable Product Development: From MVPs to full-fledged solutions, we help bring your vision to life.
 										</p>
 									</li>
 
@@ -97,10 +94,10 @@
 							<div class="section-title mb-70">
 
 								<!-- Title -->	
-								<h2 class="s-50 w-700">We make your business gain more revenue at a glance</h2>	
+								<h2 class="s-50 w-700">Our solutions to make your business gain more revenue</h2>	
 
 								<!-- Text -->	
-								<p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+								<p class="s-21 color--grey">Empowering tech startups by offering tailored solutions</p>
 									
 							</div>	
 						</div>
@@ -135,9 +132,8 @@
 
 									<!-- Text -->
 									<div class="fbox-txt">
-										<h6 class="s-22 w-700">Market Research</h6>
-										<p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-											tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+										<h6 class="s-22 w-700">MVP Development</h6>
+										<p>Transform your groundbreaking ideas into Minimum Viable Products (MVP) with scalable and efficient development practices.
 										</p>
 									</div>
 
@@ -168,9 +164,8 @@
 
 									<!-- Text -->
 									<div class="fbox-txt">
-										<h6 class="s-22 w-700">User Experience</h6>
-										<p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-											tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+										<h6 class="s-22 w-700">Full-stack Development</h6>
+										<p>End-to-end software solutions using modern frameworks and tools such as React, Next.js, .NET, and more.
 										</p>
 									</div>
 
@@ -201,9 +196,8 @@
 
 									<!-- Text -->
 									<div class="fbox-txt">
-										<h6 class="s-22 w-700">Digital Marketing</h6>
-										<p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-											tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+										<h6 class="s-22 w-700">Cloud and DevOps Solutions</h6>
+										<p>Seamless cloud integration on AWS and Azure to ensure scalability and reliability.
 										</p>
 									</div>
 
@@ -234,9 +228,8 @@
 
 									<!-- Text -->
 									<div class="fbox-txt">
-										<h6 class="s-22 w-700">Web Development</h6>
-										<p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-											tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+										<h6 class="s-22 w-700"> API and Third-party Integrations</h6>
+										<p>Develop and integrate APIs to connect your platform with payment gateways, CRMs, or other third-party services.
 										</p>
 									</div>
 
@@ -267,9 +260,8 @@
 
 									<!-- Text -->
 									<div class="fbox-txt">
-										<h6 class="s-22 w-700">Brand Design Identity</h6>
-										<p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-											tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+										<h6 class="s-22 w-700">Product Modernization</h6>
+										<p>Upgrade outdated systems with modern technologies while maintaining your core functionality.
 										</p>
 									</div>
 
@@ -300,9 +292,8 @@
 
 									<!-- Text -->
 									<div class="fbox-txt">
-										<h6 class="s-22 w-700">SEO & SMM Services</h6>
-										<p>Porta semper lacus cursus feugiat primis ultrice ligula risus ociis auctor and
-											tempus feugiat impedit felis cursus auctor augue mauris blandit ipsum
+										<h6 class="s-22 w-700"> Technical Consulting and Team Support</h6>
+										<p>Expert guidance on tech stack selection and software architecture.
 										</p>
 									</div>
 
@@ -341,16 +332,14 @@
 										<h2 class="s-46 w-700">Automate your way to success</h2>
 
 										<!-- Text -->	
-										<p>Sodales tempor sapien quaerat congue eget ipsum laoreet turpis neque auctor 
-											vitae eros dolor luctus placerat magna ligula cursus and purus pretium
+										<p>Transform the way you operate with smarter automation solutions. By streamlining workflows and enhancing efficiency, we empower your startup to focus on what truly matters—delivering value to your customers.
 										</p>
 
 										<!-- Small Title -->	
 										<h5 class="s-24 w-700 h5-title">The smarter way to work</h5>
 
 										<!-- Text -->	
-										<p class="mb-0">Sapien tempor sodales quaerat ipsum undo congue laoreet turpis neque 
-											auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae
+										<p class="mb-0">Embrace intelligent solutions that work as hard as you do. Our tailored strategies ensure seamless integration of automation into your operations, enabling faster decision-making and improved productivity.
 										</p>
 
 									</div>
@@ -404,8 +393,7 @@
 									<h5 class="s-24 w-700">Solution that grows with you</h5>
 
 									<!-- Text -->	
-									<p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis 
-									   vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit
+									<p>Empower your startup with flexible and scalable solutions tailored to your unique needs. Whether you're just starting or scaling up, we provide innovative tools to help you adapt and succeed in a competitive market.
 									</p>
 
 								</div>	<!-- END TEXT BOX -->	
@@ -418,13 +406,11 @@
 									<h5 class="s-24 w-700">Connect your data sources</h5>
 
 									<!-- Text -->	
-									<p>Tempor sapien sodales quaerat ipsum undo congue laoreet turpis neque auctor turpis 
-										vitae dolor luctus placerat magna and ligula cursus purus an ipsum vitae suscipit 
-										purus  
+									<p>Bring all your data together for smarter decision-making and streamlined operations. Our intelligent integration services connect your systems, providing you with real-time insights and improved efficiency.
 									</p>
 
 									<!-- List -->	
-									<ul class="simple-list">
+									{{-- <ul class="simple-list">
 
 										<li class="list-item">
 											<p>Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum
@@ -438,7 +424,7 @@
 											</p>
 										</li>
 
-									</ul>
+									</ul> --}}
 
 								</div>	<!-- END TEXT BOX -->
 
@@ -458,7 +444,7 @@
 
 			<!-- FEATURES-12
 			============================================= -->
-			<section id="features-12" class="shape--bg shape--white-400 pt-100 features-section division">
+			{{-- <section id="features-12" class="shape--bg shape--white-400 pt-100 features-section division">
 				<div class="container">
 					<div class="row d-flex align-items-center">
 
@@ -629,14 +615,16 @@
 
 					</div>    <!-- End row -->
 				</div>     <!-- End container -->
-			</section>	<!-- END FEATURES-12 -->
+			</section>	 --}}
+			
+			<!-- END FEATURES-12 -->
 
 
 
 
 			<!-- FEATURES-2
 			============================================= -->
-			<section id="features-2" class="pt-100 features-section division">
+			{{-- <section id="features-2" class="pt-100 features-section division">
 				<div class="container">
 
 
@@ -723,7 +711,9 @@
 
 
 				</div>     <!-- End container -->
-			</section>	<!-- END FEATURES-2 -->
+			</section>	
+			 --}}
+			<!-- END FEATURES-2 -->
 
 
 
@@ -775,7 +765,7 @@
 
 			<!-- STATISTIC-1
 			============================================= -->
-			<div id="statistic-1" class="py-100 statistic-section division">
+			{{-- <div id="statistic-1" class="py-100 statistic-section division">
 				<div class="container">
 
 
@@ -851,7 +841,9 @@
 
 
 				</div>	 <!-- End container -->		
-			</div>	 <!-- END STATISTIC-1 -->	
+			</div>	  --}}
+			
+			<!-- END STATISTIC-1 -->	
 
 
 
@@ -894,15 +886,12 @@
 								<ul class="simple-list">
 
 									<li class="list-item">
-										<p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis 
-										   sodales magna undo aoreet primis
+										<p>Simplify and streamline your workflow with seamless tool integrations. Our solutions make it effortless to connect your essential tools, helping you save time and boost productivity with just a few clicks.
 										</p>
 									</li>
 
 									<li class="list-item">
-										<p class="mb-0">Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an 
-										   ultrice ipsum aliquam undo congue dolor cursus purus congue and ipsum purus sapien 
-										   a blandit
+										<p class="mb-0">From automation to analytics, we ensure your systems work together harmoniously, enabling you to focus on innovation and growth.
 										</p>
 									</li>
 
@@ -934,7 +923,7 @@
 								<h2 class="s-52 w-700">All Necessary Tools</h2>	
 
 								<!-- Text -->	
-								<p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+								<p class="s-21 color--grey">Discover the power of having all your essential tools at your fingertips!</p>
 									
 							</div>	
 						</div>
@@ -1147,7 +1136,7 @@
 
 			<!-- FEATURES-5
 			============================================= -->
-			<section id="features-5" class="pt-100 features-section division">
+			{{-- <section id="features-5" class="pt-100 features-section division">
 				<div class="container">
 
 
@@ -1215,40 +1204,37 @@
 
 
 				</div>     <!-- End container -->
-			</section>	<!-- END FEATURES-5 -->
+			</section>	 --}}
+			
+			<!-- END FEATURES-5 -->
 
 
 
 			<!-- BANNER-13
 			============================================= -->
-			<section id="banner-13" class="pt-100 banner-section">
+			<section class="banner-section pt-100">
 				<div class="container">
-
-
 					<!-- BANNER-13 WRAPPER -->
 					<div class="banner-13-wrapper bg--05 bg--scroll r-16 block-shadow">
 						<div class="banner-overlay">
 							<div class="row d-flex align-items-center">
-
 
 								<!-- BANNER-5 TEXT -->
 								<div class="col-md-7">
 									<div class="banner-13-txt color--white">
 
 										<!-- Title -->	
-										<h2 class="s-46 w-700">Getting started with Martex today!</h2>
+										<h2 class="s-46 w-700">Get Started with WebCore Today!</h2>
 
 										<!-- Text -->
-										<p class="p-lg">Congue laoreet turpis neque auctor turpis vitae dolor a luctus 
-											placerat and magna ligula cursus
+										<p class="p-lg">Take the first step toward transforming your business. Discover innovative solutions tailored to your success—because growth starts here.
 										</p>
 
 										<!-- Button -->
-										<a href="signup-1.html" class="btn r-04 btn--theme hover--tra-white">Get srarted - it's free</a>
+										<a href="/contact-us" class="btn r-04 btn--theme hover--tra-white">Get srarted - it's free</a>
 
 									</div>
 								</div>	<!-- END BANNER-13 TEXT -->
-
 
 								<!-- BANNER-13 IMAGE -->
 								<div class="col-md-5">
@@ -1256,15 +1242,9 @@
 										<img class="img-fluid" src="images/img-04.png" alt="banner-image">
 									</div>	
 								</div>
-
-
 							</div>   <!-- End row -->	
 						</div>   <!-- End banner overlay -->	
 					</div>    <!-- END BANNER-13 WRAPPER -->
-
-					
-
-
 				</div>     <!-- End container -->	
 			</section>	<!-- END BANNER-13 -->
 
