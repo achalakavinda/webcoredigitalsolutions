@@ -1,8 +1,6 @@
 @extends('layouts.web')
 
 @section('content')
-
-
 			<!-- CONTACTS-1
 			============================================= -->
 			<section id="contacts-1" class="pb-50 inner-page-hero contacts-section division">				
@@ -32,18 +30,19 @@
 				 		<div class="col-md-11 col-lg-10 col-xl-8">
 				 			<div class="form-holder">
 
-								<form name="contactform" class="row contact-form" method="post" action="{{url('message')}}">
-
+								<form name="contactform" class="row contact-form" method="post" action="{{url('lead')}}">
 									@csrf()
 									<!-- Form Select -->
 									<div class="col-md-12 input-subject">
 										<p class="p-lg">This question is about: </p>
 										<span>Choose a topic, so we know who to send your request to: </span>
-										<select class="form-select subject" aria-label="Default select example">
-									    	<option selected>This question is about...</option>	
-											<option value="New Website">New Website</option>
+										<select name="question" class="form-select subject" aria-label="Default select example">
+									    	<option selected value="">This question is about...</option>	
+											<option value="NewWebsite">New Website</option>
+											<option value="updateWebsite">Update Website</option>
+											<option value="ItSupport">IT Support</option>
 											<option value="Troubleshooting">Troubleshooting</option>
-											<option value="Backup_Restore">Backup/Restore</option>
+											<option value="BackupRestore">Backup/Restore</option>
 											<option value="Other">Other</option>
 									    </select>
 									</div>
@@ -52,19 +51,19 @@
 									<div class="col-md-12">
 										<p class="p-lg">Your Name: </p>
 										<span>Please enter your real name: </span>
-										<input type="text" name="name" class="form-control name" placeholder="Your Name*"> 
+										<input type="text" name="leadName" class="form-control name" placeholder="Your Name*"> 
 									</div>
 												
 									<div  class="col-md-12">
 										<p class="p-lg">Your Email Address: </p>
 										<span>Please carefully check your email address for accuracy</span>
-										<input type="text" name="email" class="form-control email" placeholder="Email Address*"> 
+										<input type="text" name="leadEmail" class="form-control email" placeholder="Email Address*"> 
 									</div>
 		
 									<div class="col-md-12">
 										<p class="p-lg">Explain your question in details: </p>
 										<span>Your OS version, Martex version & build, steps you did. Be VERY precise!</span>
-										<textarea class="form-control message" name="message" rows="6" placeholder="I have a problem with..."></textarea>
+										<textarea name="leadMessage" class="form-control message" name="message" rows="6" placeholder="I have a problem with..."></textarea>
 									</div> 
 																						
 									<!-- Contact Form Button -->
@@ -91,18 +90,11 @@
 				 		</div>	
 				 	</div>	   <!-- END CONTACT FORM -->
 
-
 				</div>	   <!-- End container -->	
 			</section>	<!-- END CONTACTS-1 -->
 
-
-
-
 			<!-- DIVIDER LINE -->
 			<hr class="divider">
-
-
-
 
 			<!-- NEWSLETTER-1
 			============================================= -->
@@ -143,12 +135,7 @@
 				</div>     <!-- End newsletter-overlay -->
 			</section>	<!-- END NEWSLETTER-1 -->
 
-
-
-
 			<!-- DIVIDER LINE -->
 			<hr class="divider">
-
-
 
 @endsection
