@@ -86,7 +86,8 @@
         
                                     <!-- Mail Link -->
                                     <p class="footer-mail-link ico-25">
-                                        <a href="mailto:info@webcoredigitalsolution.com.au">info@webcoredigitalsolution.com.au</a>
+                                        <a href="mailto:info@webcoredigitalsolution.com.au">admin@webcoredigitalsolution.com.au</a>
+                                        <a href="tel:+61481599406">+(61)-481599406</a>
                                     </p>
         
                                     <!-- Social Links -->
