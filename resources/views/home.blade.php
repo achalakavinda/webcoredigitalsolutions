@@ -27,19 +27,21 @@
                                     </p>
     
                                     <!-- HERO QUICK FORM -->
-                                    <form name="quickform" class="quick-form form-shadow form-half mt-35">
-                                        <!-- Form Inputs -->
+                                    <form class="quick-form form-shadow form-half mt-35"
+                                        method="POST" action="{{ route('lead.homepage') }}">
+                                        @csrf
                                         <div class="input-group">
                                             <input type="email" name="email" class="form-control email r-06"
                                                 placeholder="Your email address" autocomplete="off" required>
                                             <span class="input-group-btn form-btn">
-                                                <button type="submit" class="btn r-06 btn--theme hover--theme submit">Get
-                                                    Started</button>
+                                                <button type="submit" class="btn r-06 btn--theme hover--theme submit">
+                                                    Get Started
+                                                </button>
                                             </span>
                                         </div>
-                                        <!-- Form Message -->
                                         <div class="quick-form-msg"><span class="loading"></span></div>
-                                    </form> <!-- END HERO QUICK FORM -->
+                                    </form>
+                                    
                                 </div>
                             </div> <!-- END HERO TEXT -->
     
@@ -608,63 +610,7 @@
             <!-- DIVIDER LINE -->
             <hr class="divider">
     
-            <!-- MODAL WINDOW (NEWSLETTER FORM)
-                ============================================= -->
-            <div id="modal-2" class="modal fade" tabindex="-1">
-                <div class="modal-dialog modal-dialog-centered">
-                    <div class="modal-content">
+            <x-newsletter-modal />
     
-    
-                        <!-- CLOSE BUTTON -->
-                        <button type="button" class="btn-close ico-10 white-color" data-bs-dismiss="modal"
-                            aria-label="Close">
-                            <span class="flaticon-cancel"></span>
-                        </button>
-    
-    
-                        <!-- MODAL CONTENT -->
-                        <div class="modal-body text-center">
-    
-    
-                            <!-- IMAGE -->
-                            <div class="modal-body-img">
-                                <img class="img-fluid" src="images/modal-newsletter-blue.jpg" alt="content-image">
-                            </div>
-    
-    
-                            <!-- NEWSLETTER FORM -->
-                            <div class="modal-body-content">
-    
-                                <!-- Title -->
-                                <h5 class="s-24 w-700">Stay up to date with our news, ideas and updates</h5>
-    
-                                <!-- Form -->
-                                <form class="newsletter-form">
-    
-                                    <div class="input-group">
-                                        <input type="email" autocomplete="off" class="form-control"
-                                            placeholder="Your email address" required id="s-email">
-                                        <span class="input-group-btn">
-                                            <button type="submit" class="btn btn--theme hover--theme">Subscribe Now</button>
-                                        </span>
-                                    </div>
-    
-                                    <!-- Newsletter Form Notification -->
-                                    <label for="s-email" class="form-notification"></label>
-    
-                                </form>
-    
-                            </div> <!-- END NEWSLETTER FORM -->
-    
-    
-                        </div> <!-- END MODAL CONTENT -->
-    
-    
-                    </div>
-                </div>
-            </div> <!-- END MODAL WINDOW (NEWSLETTER FORM) -->
-    
-    
-
 
 @endsection

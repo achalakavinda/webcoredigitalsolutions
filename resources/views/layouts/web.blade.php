@@ -102,28 +102,16 @@
 	<script src="js/popper.min.js"></script>
 	<script src="js/lunar.js"></script>
 	<script src="js/wow.js"></script>
+	<!-- Add in <head> or before closing </body> -->
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
 
 	<!-- Custom Script -->
 	<script src="js/custom.js"></script>
 
-	@env('production')
-    	<!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-GSZN6P1WTX"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag() { dataLayer.push(arguments); }
-			gtag('js', new Date());
-
-			gtag('config', 'G-GSZN6P1WTX');
-		</script>
-@endenv
-
-	
-
+	<x-analytics.google-tag />
+	<x-alerts.sweet-alert />
 
 </body>
-
-
-
 
 </html>
